@@ -111,6 +111,10 @@ WHERE shipped_date IS NULL;
 
 -- ORDER by oprator
 
+SELECT * 
+FROM customers 
+ORDER By first_name, phone
+
 
 
 
