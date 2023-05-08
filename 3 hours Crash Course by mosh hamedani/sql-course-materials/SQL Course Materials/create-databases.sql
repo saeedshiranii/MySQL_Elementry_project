@@ -1,7 +1,6 @@
 DROP DATABASE IF EXISTS `sql_invoicing`;
 
-CREATE DATABASE 
-`sql_invoicing`; 
+CREATE DATABASE `sql_invoicing`; 
 
 USE `sql_invoicing`;
 
